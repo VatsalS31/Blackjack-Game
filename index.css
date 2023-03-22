@@ -1,0 +1,47 @@
+
+
+body {
+    background-image: url("card3.jpeg");
+    background-size: cover;
+
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    height: 105vh;
+    color: rgb(189, 178, 178);
+
+}
+
+h1 {
+
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+
+}
+
+button {
+    color: #016f32;
+    font-weight: bold;
+    width: 150px;
+    background: goldenrod;
+    border: none;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 6px;
+
+
+}
+
+img {
+    display: block;
+
+    margin-right: 50px;
+    margin-left: 20px;
+    position: absolute;
+    top: 35px;
+    width: 18%;
+}
